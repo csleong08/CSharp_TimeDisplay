@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb
